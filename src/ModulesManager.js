@@ -11,7 +11,7 @@ class ModulesManager {
     } catch (error) {
       throw new Error(
         "Loading modules failed in ModulesManager.js. This might be caused by duplicated modules in /src/modules.js. \n ORIGINAL ERROR: " +
-          error,
+        error,
       );
     }
     this.contributionsCache = {};
