@@ -1,6 +1,7 @@
 {
-  "short_name": "openIMIS",
-  "name": "openIMIS",
+  "short_name": "Zilieri",
+  "name": "Zilieri",
+  "description": "Digital Vouchers for Day Laborers",
   "icons": [
     {
       "src": "favicon.ico",

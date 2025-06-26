@@ -1,5 +1,5 @@
 {
-  "appName": "openIMIS",
+  "appName": "Zilieri",
   "close": "Close",
   "ok": "Ok",
   "cancel": "Cancel",
@@ -43,4 +43,3 @@
   "resetFilterTooltip": "Clear Search",
   "refreshFilterTooltip": "Search again"
 }
-

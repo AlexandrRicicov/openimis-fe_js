@@ -94,7 +94,7 @@ const AppContainer = () => {
                 basename={process.env.PUBLIC_URL}
                 localesManager={localesManager}
                 messages={messages_ref}
-                logo={MMPS_logo}
+                logo={MMPS_logo_white}
                 whiteLogo={MMPS_logo_white}
               />
             </ModulesManagerProvider>
