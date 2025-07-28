@@ -1,4 +1,4 @@
-FROM node:16 AS build-stage
+FROM node:16-bullseye AS build-stage
 RUN mkdir /app
 COPY ./ /app
 WORKDIR /app
